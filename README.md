@@ -30,4 +30,4 @@
 	 * should still be available.
 	 */
 
-![alt text](https://github.com/[Adhouma]/[Map-adventure-game-challenge]/blob/[master]/Adventure-game-exits.PNG?raw=true)
+![Alt text](Adhouma/Map-adventure-game-challenge/blob/master/Exits/Adventure-game-exits.PNG)

@@ -30,5 +30,5 @@
 	 * should still be available.
 	 */
 	 
-## Image game description
+## Adventure game exits:
 ![Adventure game image description](https://github.com/Adhouma/Map-adventure-game-challenge/blob/master/Exits/Adventure-game-exits.PNG?raw=true)

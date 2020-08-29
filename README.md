@@ -29,5 +29,5 @@
 	 * message and remain in the same place. Single letter commands (N, W, S, E, Q)
 	 * should still be available.
 	 */
-
-![Alt text](Adhouma/Map-adventure-game-challenge/blob/master/Exits/Adventure-game-exits.PNG)
+	 
+![alt text](https://github.com/Adhouma/Map-adventure-game-challenge/blob/master/Exits/Adventure-game-exits.PNG?raw=true)
